@@ -1,0 +1,31 @@
+/* styles for Internet Explorer 6 and lower, unvisible for others */
+
+.clearfix {
+	height:1%;
+}
+
+input,
+textarea,
+select {
+	font-size: 100%;
+}
+
+.side-nav ul li.main ul li {
+	border-bottom: 1px solid #f9f9f9;
+}
+
+.ui-tabs .ui-tabs-panel{
+	width: 540px;
+}
+
+.f-left{
+	padding: 5px 10px 0;
+}
+
+.contact-holder ul li .check-box {
+	margin-top: 0;
+}
+
+.contact-holder ul li .check-box-title {
+	margin-left: 0;
+}

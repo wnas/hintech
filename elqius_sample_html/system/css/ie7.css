@@ -1,0 +1,13 @@
+/* styles for Internet Explorer 7, unvisible for others */
+
+.clearfix {
+	zoom: 1;
+}
+
+.contact-holder ul li .check-box {
+	margin-top: 0;
+}
+
+.contact-holder ul li .check-box-title {
+	margin-left: 0;
+}
